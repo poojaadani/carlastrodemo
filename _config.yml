@@ -6,7 +6,7 @@ email: 						"support@ecko.me"
 description: 				"Astro is a content focused responsive theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net."
 baseurl: 					"http://poojaadani.github.io/carlastrodemo"
 url: 						"http://astrojek.ecko.me"
-logourl: 					"/assets/img/bloglogo.jpg"		
+logourl: 					"http://poojaadani.github.io/carlastrodemo/assets/img/bloglogo.jpg"		
 fa-logo: 					"fa-bookmark-o"
 paginate: 					5
 
@@ -16,7 +16,7 @@ author_name: 				"Harvey Specter"
 author_url: 				"http://google.com"
 author_bio: 				"Harvey Specter has built a career and reputation by breaking the rules. Harvey's shoot-from-the-hip style has made him an effective lawyer and a slick character."
 author_email: 				"support@ecko.me"
-author_image: 				"/assets/img/authorimage.jpg"
+author_image: 				"http://poojaadani.github.io/carlastrodemo/assets/img/authorimage.jpg"
 
 
 # Social Settings
