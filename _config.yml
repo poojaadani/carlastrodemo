@@ -42,7 +42,7 @@ theme_always_show_nav: 		false
 # SASS Settings
 # DO NOT MODIFY
 sass:
- sass_dir: "http://poojaadani.github.io/carlastrodemo/assets/css/"
+ sass_dir: "/assets/css/"
  style: :compressed
 
 
