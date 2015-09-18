@@ -4,7 +4,7 @@
 title: 						"EckoThemes"
 email: 						"support@ecko.me"
 description: 				"Astro is a content focused responsive theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net."
-baseurl: 					""
+baseurl: 					"/carlastrodemo"
 url: 						"http://astrojek.ecko.me"
 logourl: 					"/assets/img/bloglogo.jpg"		
 fa-logo: 					"fa-bookmark-o"
